@@ -2,3 +2,8 @@
 __pycache__/
 dev/cache/
 dataProcessed/
+
+# lokalni podatki in generirane datoteke
+dataset_downloaded/
+templates/*.npz
+.idea/
